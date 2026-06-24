@@ -10,15 +10,6 @@ Can we predict how well a student will perform in mathematics based on factors l
 
 This project answers that — and deploys it as a live web application.
 
----
-
-## 🚀 Live Demo
-
-> Deployed on AWS Elastic Beanstalk  
-> *(Add your live URL here once deployed)*
-
----
-
 ## 🧠 Tech Stack
 
 | Layer | Technology |
@@ -174,10 +165,4 @@ The `.ebextensions/` folder handles environment configuration automatically.
 
 **Abhinav Sinha**  
 📧 abhinavsinha0093@gmail.com  
-🔗 [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
-
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
